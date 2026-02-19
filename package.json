@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "test": "npx cypress run",
+    "test:open": "npx cypress open"
+  },
+  "dependencies": {
+    "cypress": "^15.10.0"
+  },
+  "devDependencies": {
+    "mochawesome": "^7.1.4"
+  }
+}
